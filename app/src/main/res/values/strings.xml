@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">MyGrozziie</string>
+    ///language settings
+    ////mian
+    <string name="app_name">Grozziie</string>
+
+    <!-- Welcome Screen Strings -->
+
+    <!-- Sign Up & Login Screen Strings -->
+
+    <!-- Verify OTP Screen Strings -->
+
+    <!-- Forgot Password Screen Strings -->
+
+    <!-- Home Screen Strings -->
 </resources>
